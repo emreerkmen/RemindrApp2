@@ -334,6 +334,7 @@ public class ListReminderActivity extends AppCompatActivity {
                                         }
                                         return true;
                                     case R.id.edit_reminder:
+                                        mTempPost = mList.getChildAdapterPosition(itemView);
                                         int mReminderClickID = IDmap.get(mTempPost);
                                         selectReminder(mReminderClickID);
 
