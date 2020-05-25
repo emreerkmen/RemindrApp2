@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clock.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_list_menu.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\menu\\list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendarbutton.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\calendarbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_items.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\layout\\recycler_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_add_reminder.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\menu\\menu_add_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deletebutton2.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\deletebutton2.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\font_spiraxregular.ttf.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\font\\spiraxregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history2.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\history2.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\font_spirax_font.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\font\\spirax_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addbutton3.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\addbutton3.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_small_menu.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\menu\\small_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listpage.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\layout\\activity_listpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_addreminder.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\layout\\activity_addreminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editreminder.xml.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\layout\\activity_editreminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emree\\Downloads\\Remindr-App-master (2)\\Remindr-App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

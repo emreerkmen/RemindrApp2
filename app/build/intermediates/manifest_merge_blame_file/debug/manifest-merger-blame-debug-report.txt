@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hfad.reminderapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:5:22-63
+12    <uses-permission android:name="android.Manifest.permission#WAKE_LOCK" />
+12-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:6:5-77
+12-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+13-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <application
+15-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:9:5-32:19
+16        android:allowBackup="true"
+16-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:10:13-39
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.2.0] C:\Users\emree\.gradle\caches\transforms-2\files-2.1\c6f4260131458ccd0b15b1a20cb8065e\core-1.2.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@drawable/logo"
+20-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:11:13-42
+21        android:label="@string/app_name"
+21-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:12:13-45
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:13:13-58
+23        android:supportsRtl="true"
+23-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:14:13-39
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:15:13-44
+26        <activity android:name="com.hfad.reminderapp.ListReminderActivity" >
+26-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:16:9-26:20
+26-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:16:19-55
+27            <intent-filter>
+27-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:18:13-25:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:19:17-68
+28-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:19:25-66
+29                <action android:name="android.intent.action.BOOT_COMPLETED" />
+29-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:20:17-79
+29-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:20:25-76
+30                <action android:name="android.intent.action.SEND" />
+30-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:21:17-69
+30-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:21:25-66
+31                <action android:name="android.intent.action.INPUT_METHOD_CHANGED" />
+31-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:22:17-85
+31-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:22:25-82
+32                <action android:name="android.intent.action.USER_PRESENT" />
+32-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:23:17-76
+32-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:23:25-74
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:24:17-76
+34-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <receiver
+38-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:27:9-77
+39            android:name="com.hfad.reminderapp.AlarmReceiver"
+39-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:27:19-48
+40            android:process=":remote" />
+40-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:27:49-74
+41        <receiver
+41-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:28:9-76
+42            android:name="com.hfad.reminderapp.BootReceiver"
+42-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:28:19-47
+43            android:process=":remote" />
+43-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:28:48-73
+44
+45        <activity android:name="com.hfad.reminderapp.AddReminderActivity" />
+45-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:29:9-56
+45-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:29:19-54
+46        <activity android:name="com.hfad.reminderapp.EditReminderActivity" />
+46-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:30:9-57
+46-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:30:19-55
+47        <activity android:name="com.hfad.reminderapp.SettingsActivity" />
+47-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:31:9-53
+47-->C:\Users\emree\Downloads\Remindr-App-master (2)\Remindr-App-master\app\src\main\AndroidManifest.xml:31:19-51
+48    </application>
+49
+50</manifest>
